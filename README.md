@@ -13,7 +13,9 @@ Features:
 ✔️ Reports: Displays the remaining ingredients and total profit.
 
 ✔️ Machine Control:
+
     1. Type "report" to check remaining resources.
+    
     2. Type "off" to turn off the machine.
     
 ✔️ Refilling & Error Handling: Notifies when ingredients are insufficient and asks for re-insertion of coins if payment is insufficient.
